@@ -4,4 +4,5 @@ returns a concatenated string"""
 
 
 def add(a: float, b: float) -> float:
+    """string str1 and a string str2 as arguments"""
     return a + b
